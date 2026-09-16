@@ -1,0 +1,1 @@
+"""Core package : logique métier sans dépendance UI."""
